@@ -1,6 +1,6 @@
 ## Hello my name is Haroon 👋
 
-## I am an accelerator physicist, educator, and basketball coach:
+### I am an accelerator physicist, educator, and basketball coach:
 - I’m currently working on modelling and understanding space charge (Coulomb repulsion of similarly charged particles) effects in the CERN Proton Synchrotron, one of the injectors for the LHC using MAD-X/PTC/PyORBIT.
 - Prior to this I investigated the effect of collision debris from one FCC-hh detector on the accelerator and subsequent detector, using DPMJET-III inside FLUKA, MERLIN/MAD-X/PTC for tracking and collimation, and FLUKA for energy deposition studies.
 - During my PhD I developed the MERLIN C++ accelerator physics libraries for LHC and HL-LHC collimation, specifically investigating the integration of a hollow electron lens as a collimation enhancer, and use of novel composite materials for collimators.
@@ -21,9 +21,6 @@
 ### Material Interaction
 - FLUKA https://fluka.cern/home
 - GEANT4 https://geant4.web.cern.ch/
-
-<br />
-
 
 ### Connect with me:
 [<img align="left" alt="Coachrafique | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
