@@ -7,22 +7,22 @@
 
 <details>
 <summary>Tracking Codes</summary>
-- Methodical Accelerator Design (MAD-X) [MADX]
-- Polymorphic Tracking Code (PTC) [PTC]
-- SixTrack / SixTrackLib [SixTrack]
+  - Methodical Accelerator Design (MAD-X) https://github.com/MethodicalAcceleratorDesign
+  - Polymorphic Tracking Code (PTC) https://github.com/PyORBIT-Collaboration/PTC
+  - SixTrack / SixTrackLib https://github.com/SixTrack
 </details>
 
 <details>
 <summary>Collective Effects</summary>
-- PyORBIT [PyORBIT]
-- MERLIN C++ Accelerator Libraries [MERLIN]
-- PyHEADTAIL [PyHEADTAIL]
+  - PyORBIT https://github.com/PyORBIT-Collaboration/py-orbit
+  - MERLIN C++ Accelerator Libraries] https://github.com/Merlin-Collaboration
+  - PyHEADTAIL https://github.com/PyCOMPLETE/PyHEADTAIL
 </details>
 
 <details>
 <summary>Material Interaction</summary>
-- FLUKA [FLUKA]
-- GEANT4 [GEANT4]
+  - FLUKA https://fluka.cern/home
+  - GEANT4 https://geant4.web.cern.ch/
 </details>
 
 ### Connect with me:
