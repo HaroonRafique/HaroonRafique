@@ -12,7 +12,7 @@
 
 ### Collective Effects
 - PyORBIT https://github.com/PyORBIT-Collaboration/py-orbit  
-- MERLIN C++ Accelerator Libraries] https://github.com/Merlin-Collaboration  
+- MERLIN C++ Accelerator Libraries https://github.com/Merlin-Collaboration  
 - PyHEADTAIL https://github.com/PyCOMPLETE/PyHEADTAIL
 
 ### Material Interaction
