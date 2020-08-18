@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hello my name is Haroon 👋
 
-<!--
-**HaroonRafique/HaroonRafique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am an accelerator physicist, educator, and basketball coach:
+- 🔭 I’m currently working on modelling and understanding space charge (Coulomb repulsion of similarly charged particles) effects in the CERN Proton Synchrotron, one of the injectors for the LHC.
 
-Here are some ideas to get you started:
+### Connect with me:
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram1]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram2]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/academia.svg" />][academia]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.haroonrafique.vercel.app/api?username=haroonrafique&show_icons=true&hide_border=true" />
+
+</details>
+
+[twitter]: https://twitter.com/coachrafique
+[instagram1]: https://instagram.com/haroonrafique89
+[instagram2]: https://instagram.com/doctor_double_doge
+[linkedin]: https://www.linkedin.com/in/haroonrafique/
+[researchgate]: https://www.researchgate.net/profile/Haroon_Rafique
+[academia]: https://cern.academia.edu/HaroonRafique
