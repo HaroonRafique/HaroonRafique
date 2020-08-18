@@ -24,7 +24,6 @@
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 <br />
----
 
 <img align="left" alt="Haroon's Github Stats" src="https://github-readme-stats.haroonrafique.vercel.app/api?username=haroonrafique&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
 
