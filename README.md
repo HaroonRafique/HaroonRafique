@@ -20,7 +20,7 @@
 <br />
 ---
 
-<img align="left" alt="Haroon's Github Stats" src="https://github-readme-stats.haroonrafique.vercel.app/api?username=haroonrafique&show_icons=true&hide_border=true&theme=dracula" />
+<img align="left" alt="Haroon's Github Stats" src="https://github-readme-stats.haroonrafique.vercel.app/api?username=haroonrafique&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
 
 
 [twitter]: https://twitter.com/coachrafique
