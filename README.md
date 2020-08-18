@@ -5,25 +5,19 @@
 
 ## Useful accelerator physics codes:
 
-<details>
-<summary>Tracking Codes</summary>
-  - Methodical Accelerator Design (MAD-X) https://github.com/MethodicalAcceleratorDesign
-  - Polymorphic Tracking Code (PTC) https://github.com/PyORBIT-Collaboration/PTC
-  - SixTrack / SixTrackLib https://github.com/SixTrack
-</details>
+### Tracking Codes
+- Methodical Accelerator Design (MAD-X) https://github.com/MethodicalAcceleratorDesign
+- Polymorphic Tracking Code (PTC) https://github.com/PyORBIT-Collaboration/PTC
+- SixTrack / SixTrackLib https://github.com/SixTrack
 
-<details>
-<summary>Collective Effects</summary>
-  - PyORBIT https://github.com/PyORBIT-Collaboration/py-orbit
-  - MERLIN C++ Accelerator Libraries] https://github.com/Merlin-Collaboration
-  - PyHEADTAIL https://github.com/PyCOMPLETE/PyHEADTAIL
-</details>
+### Collective Effects
+- PyORBIT https://github.com/PyORBIT-Collaboration/py-orbit  
+- MERLIN C++ Accelerator Libraries] https://github.com/Merlin-Collaboration  
+- PyHEADTAIL https://github.com/PyCOMPLETE/PyHEADTAIL
 
-<details>
-<summary>Material Interaction</summary>
-  - FLUKA https://fluka.cern/home
-  - GEANT4 https://geant4.web.cern.ch/
-</details>
+### Material Interaction
+- FLUKA https://fluka.cern/home
+- GEANT4 https://geant4.web.cern.ch/
 
 ### Connect with me:
 [<img align="left" alt="Coachrafique | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
