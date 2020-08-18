@@ -1,7 +1,29 @@
-### Hello my name is Haroon 👋
+## Hello my name is Haroon 👋
 
 ## I am an accelerator physicist, educator, and basketball coach:
 - 🔭 I’m currently working on modelling and understanding space charge (Coulomb repulsion of similarly charged particles) effects in the CERN Proton Synchrotron, one of the injectors for the LHC.
+
+## Useful accelerator physics codes:
+
+<details>
+<summary>Tracking Codes</summary>
+- Methodical Accelerator Design (MAD-X) [MADX]
+- Polymorphic Tracking Code (PTC) [PTC]
+- SixTrack / SixTrackLib [SixTrack]
+</details>
+
+<details>
+<summary>Collective Effects</summary>
+- PyORBIT [PyORBIT]
+- MERLIN C++ Accelerator Libraries [MERLIN]
+- PyHEADTAIL [PyHEADTAIL]
+</details>
+
+<details>
+<summary>Material Interaction</summary>
+- FLUKA [FLUKA]
+- GEANT4 [GEANT4]
+</details>
 
 ### Connect with me:
 [<img align="left" alt="Coachrafique | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -20,6 +42,14 @@
 
 <img align="left" alt="Haroon's Github Stats" src="https://github-readme-stats.haroonrafique.vercel.app/api?username=haroonrafique&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
 
+[GEANT4]: https://geant4.web.cern.ch/
+[FLUKA]: https://fluka.cern/home
+[MERLIN]: https://github.com/Merlin-Collaboration
+[PTC]: https://github.com/PyORBIT-Collaboration/PTC
+[MADX]: https://github.com/MethodicalAcceleratorDesign
+[SixTrack]: https://github.com/SixTrack
+[PyORBIT]: https://github.com/PyORBIT-Collaboration/py-orbit
+[PyHEADTAIL]: https://github.com/PyCOMPLETE/PyHEADTAIL
 
 [twitter]: https://twitter.com/coachrafique
 [instagram1]: https://instagram.com/haroonrafique89
