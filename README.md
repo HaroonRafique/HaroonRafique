@@ -1,10 +1,11 @@
 ## Hello my name is Haroon 👋
 
 ### I am an accelerator physicist, educator, and basketball coach:
-- I’m currently working on modelling and understanding space charge (Coulomb repulsion of similarly charged particles) effects in the CERN Proton Synchrotron, one of the injectors for the LHC using MAD-X/PTC/PyORBIT.
+- I’m currently working on modelling the ISIS (https://www.isis.stfc.ac.uk/Pages/home.aspx) synchrotron and extracted proton lines using cpymad/MADX/PTC and coupling this with space charge studies using PTC/TEAPOT tracking inside ORBIT or PyORBIT.
+- I'm also concluding studies of space charge (Coulomb repulsion of similarly charged particles) effects in the CERN Proton Synchrotron, one of the injectors for the LHC using MAD-X/PTC/PyORBIT.
 - Prior to this I investigated the effect of collision debris from one FCC-hh detector on the accelerator and subsequent detector, using DPMJET-III inside FLUKA to generate the 50 TeV collision debris, MERLIN/MAD-X/PTC for tracking and collimation, and FLUKA for energy deposition and high energy muon range studies.
 - During my PhD I developed the MERLIN C++ accelerator physics libraries for LHC and HL-LHC collimation, specifically investigating the integration of a hollow electron lens as a collimation enhancer, and use of novel composite materials for collimators.
-- For my Masters project I developed GPMAD (GPU-processed methodical accelerator design), one of the first scientific applications of CUDA! The code was a proof of principle that demonstrated parallelisation of particle tracking on GPUs, obtaining orders of magnitude speedup compared to CPU processed MAD-X, and 100x speedup for space charge calculations when compared to ASTRA (a space charge tracking algorithm).
+- My Masters project Involved developing GPMAD (GPU-processed methodical accelerator design), one of the first scientific applications of CUDA! The code was a proof of principle that demonstrated parallelisation of particle tracking on GPUs, obtaining orders of magnitude speedup compared to CPU processed MAD-X, and 100x speedup for space charge calculations when compared to ASTRA (a space charge tracking algorithm).
 
 ## Useful accelerator physics codes:
 
