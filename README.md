@@ -54,4 +54,4 @@
 [instagram2]: https://instagram.com/doctor_double_doge
 [linkedin]: https://www.linkedin.com/in/haroonrafique/
 [researchgate]: https://www.researchgate.net/profile/Haroon_Rafique
-[academia]: https://cern.academia.edu/HaroonRafique
+[academia]: https://rl.academia.edu/HaroonRafique
